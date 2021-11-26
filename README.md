@@ -1,6 +1,5 @@
       👋 Hi, I’m Chief Adofoh
 
-
 - BSc Cybersecurity @ Aston University
 
    🌱 Experience
