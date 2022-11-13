@@ -8,6 +8,22 @@
 
 <br>
 
+
+
+
+   🌱 Experience
+-  Java
+- Javascript
+- PHP
+- HTML & CSS
+- MySQL
+
+
+
+ 📫 How to reach me 
+- chiefadofoh1@gmail.com
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -24,19 +40,6 @@
       </div>
 
 </p>
-
-
-   🌱 Experience
--  Java
-- Javascript
-- PHP
-- HTML & CSS
-- MySQL
-
-
-
- 📫 How to reach me 
-- chiefadofoh1@gmail.com
 
 
 <!---
