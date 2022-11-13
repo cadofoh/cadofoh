@@ -7,12 +7,12 @@
 
 - Cybersecurity Student @ <a href="https://www.aston.ac.uk/" target="blank">Aston University </a>
 - Placement Software Developer @ <a href="https://www.lanner.com/" target="blank">Lanner</a>
-- Cybersecurity ENthusiast
+- Cybersecurity Enthusiast
 
 <br>
 
 
-   🌱 Experience
+  🌱 Experience
 -  Java
 - Javascript
 - PHP
