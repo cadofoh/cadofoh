@@ -3,8 +3,6 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
 - Cybersecurity Student @ <a href="https://www.aston.ac.uk/" target="blank">Aston University </a>
 - Placement Software Developer @ <a href="https://www.lanner.com/" target="blank">Lanner</a>
 - Cybersecurity Enthusiast
