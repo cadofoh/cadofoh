@@ -1,29 +1,12 @@
-<h1 align="center"><b>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Chief Adofoh </b></h1>
-<br>
+Hello, there! Welcome to my GitHub repository.  
+My name is Chief, and I'm a cybersecurity student at Aston University.  
+I also have experience as a Software Developer at [Lanner](https://www.lanner.com/en-gb/).   
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-- Cybersecurity Student @ <a href="https://www.aston.ac.uk/" target="blank">Aston University </a>
-- Placement Software Developer @ <a href="https://www.lanner.com/" target="blank">Lanner</a>
-- Cybersecurity Enthusiast
-
-<br>
-
-
-  🌱 Experience
--  Java
-- Javascript
-- PHP
-- HTML & CSS
-- MySQL
-
-
-
- 📫 How to reach me 
-- chiefadofoh1@gmail.com
-
-
-
+### Contact
+If you have any questions or just want to connect with me, feel free to reach out. You can contact me via the following methods:  
+- Email: chiefadofoh1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cadofoh1/
 <!---
 cadofoh/cadofoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
